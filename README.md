@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav
 - <br>
-- 👀 I’m interested in doing Stack development
+- 👀 I’m interested in doing front end dev currently
 - <br>
 - 🌱 I’m currently learning ...Machine Learning
 - <br>
