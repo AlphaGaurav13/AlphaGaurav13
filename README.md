@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Gaurav
+- <br>
 - 👀 I’m interested in doing Stack development
-- 🌱 I’m currently learning ... Html ,CSS ,JS
-- 💞️ I’m looking to collaborate on ...
+- <br>
+- 🌱 I’m currently learning ...Machine Learning
+- <br>
 - 📫 How to reach me ... gauravkkr345@gmail.com 
 
 <!---
