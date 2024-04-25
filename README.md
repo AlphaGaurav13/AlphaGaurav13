@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gaurav
 - <br>
-- 👀 I’m interested in doing front end dev currently
+- 👀 PUFF PUFF
 - <br>
-- 🌱 I’m currently learning ...Machine Learning
+- 🌱 GOD IS GREAT
 - <br>
 - 📫 How to reach me ... gauravkkr345@gmail.com 
 
