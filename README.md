@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Gaurav
 - <br>
-- 👀 PUFF PUFF
-- <br>
-- 🌱 GOD IS GREAT
-- <br>
 - 📫 How to reach me ... gauravkkr345@gmail.com 
 
 <!---
