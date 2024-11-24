@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav
-- <br>
+
 - 📫 How to reach me ... gauravkkr345@gmail.com 
 
 <!---
