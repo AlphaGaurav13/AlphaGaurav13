@@ -12,3 +12,41 @@
 ---
 
 ## 🏆 **Cyber ASCII Banner**
+██████╗ █████╗ ██╗ ██╗██████╗ █████╗ ██╗ ██╗ ██╔══██╗██╔══██╗██║ ██║██╔══██╗██╔══██╗╚██╗ ██╔╝ ██████╔╝███████║██║ ██║██████╔╝███████║ ╚████╔╝ ██╔═══╝ ██╔══██║██║ ██║██╔══██╗██╔══██║ ╚██╔╝
+██║ ██║ ██║╚██████╔╝██║ ██║██║ ██║ ██║
+╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝╚═╝ ╚═╝ ╚═
+
+---
+
+## 🌌 **AI Assistant - Tech Jokes & Facts**
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 **Live GitHub Metrics**
+> **Analyze your progress in real time!**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaGaurav13&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 **Rotating 3D Tech Stack Icons**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,js,git,github,linux,tensorflow,pytorch,vscode" />
+</p>
+
+---
+
+## 💻 **Live Terminal - Real-Time CLI Commands**
+```bash
+$ whoami
+👤 Gaurav - AI ML Enthusiast & Cyberpunk Developer
+
+$ pwd
+📂 /home/opensource
+
+$ ls -l
+📁 AI-Storytelling-Project  📁 ML-Models  📁 Hacking-Tools
