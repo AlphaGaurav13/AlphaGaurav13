@@ -3,10 +3,9 @@
 </h1>
 
 ---
-
 ## 🧠 **AI-Generated Avatar**
 <p align="center">
-  <img src="https://api.multiavatar.com/GauravAiAvatar.svg" width="150" height="150">
+  <img src="https://robohash.org/AlphaGaurav13.png?size=150x150&set=set1" width="150" height="150">
 </p>
 
 ---
