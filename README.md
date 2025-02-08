@@ -42,7 +42,7 @@
 
 ## 🎖️ GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlphaGaurav13&theme=radical&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlphaGaurav13&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 ---
