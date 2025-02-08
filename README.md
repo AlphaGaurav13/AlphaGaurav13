@@ -59,8 +59,9 @@
 ---
 
 
+## ✅ Cyber Snake Contributions 🐍🔥
 <p align="center">
-  <img src="https://github.com/AlphaGaurav13/AlphaGaurav13/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/AlphaGaurav13/AlphaGaurav13/blob/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 
