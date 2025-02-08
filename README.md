@@ -1,73 +1,34 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ffcc&center=true&vCenter=true&width=600&lines=⚡+AI+ML+Explorer;💀+Cyberpunk+Hacker;🚀+Open+Source+Enthusiast;⚡+Tech+Innovator;🧠+Machine+Learning+NLP+Dev" />
-</h1>
-
----
-
-## 🤖 **AI-Generated Avatar**
-<p align="center">
-  <img src="https://robohash.org/AlphaGaurav13.png?size=200x200&set=set1" width="200" height="200">
-</p>
-
----
-
-## 🏆 **Cyberpunk GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlphaGaurav13&theme=radical&no-frame=true&no-bg=true&column=7" />
-</p>
-
----
-
-## 💻 **Cyber Terminal - Real-Time Commands**
-
-$ whoami
-👤 Gaurav - AI ML Enthusiast & Cyberpunk Developer
-
-$ pwd
-📂 /home/opensource
-
-$ ls -l
-📁 AI-Storytelling  📁 ML-Models  📁 Hacking-Tools
-
-
-## 🔥 Live GitHub Stats (Custom UI)
+## 🔥 Live GitHub Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=AlphaGaurav13&show_icons=true&theme=tokyonight" /> 
 </p>
 
-## 🚀 Tech Stack (Animated 3D Icons)
+## 🚀 Tech Stack
 <p align="center"> 
   <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,js,git,github,linux,tensorflow,pytorch,vscode" /></a> 
 </p>
 
-## 🌆 GitHub Skyline (Cyber City Mode)
+## 🌆 GitHub Skyline (Upload Your Own)
 <p align="center"> 
-  <a href="https://skyline.github.com/AlphaGaurav13/2024"> 
-    <img src="https://raw.githubusercontent.com/AlphaGaurav13/AlphaGaurav13/main/skyline.gif" width="100%" /> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/AlphaGaurav13/AlphaGaurav13/main/skyline.gif" width="100%" />
 </p>
 
-## 🕶️ Hacker Mode Spotify Music
+## 🕶️ Spotify Music (Personal API Required)
 <p align="center"> 
-  <img src="https://novatorem.vercel.app/api/spotify" width="400"> 
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default" width="400"> 
 </p>
 
-## 🏆 Contribution Graph - Holographic Mode
+## 🐍 Contribution Snake Animation
 <p align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=AlphaGaurav13&theme=dracula" /> 
+  <img src="https://github.com/AlphaGaurav13/AlphaGaurav13/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 🐍 Cyber Snake Contribution Animation
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/AlphaGaurav13/AlphaGaurav13/output/github-contribution-grid-snake.svg" /> 
-</p>
-
-## 🤯 AI-Powered Cyberpunk Quote Generator
+## 🤯 AI-Powered Quote Generator
 <p align="center"> 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> 
 </p>
 
-## 🔥 Hacker-Style Visitor Tracker
+## 🔥 Visitor Tracker
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AlphaGaurav13&label=Visitors&color=brightgreen&style=for-the-badge" /> 
 </p>
