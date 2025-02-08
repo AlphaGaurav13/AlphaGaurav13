@@ -59,9 +59,9 @@
 ---
 
 
-## ✅ Cyber Snake Contributions 🐍🔥
+## ✅ Contributions 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -84,12 +84,5 @@
   <img src="https://komarev.com/ghpvc/?username=AlphaGaurav13&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-## ✅ Cyber Snake Contributions 🐍🔥
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
-</p>
-## ✅ Cyber Snake Contributions 🐍🔥
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+
 
