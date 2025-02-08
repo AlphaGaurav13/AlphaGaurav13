@@ -8,19 +8,18 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **[Your Project](https://github.com/your-project-link)**  
+- 🔭 I’m currently working on **[NationalExamsAiAnalyzer](https://github.com/AlphaGaurav13/NationalExamsAiAnalyzer.git)**  
 - 🌱 I’m learning **Machine Learning & NLP**  
 - 👯 I’m looking to collaborate on **AI-based storytelling projects**  
 - 💬 Ask me about **Git, Python, and Open Source**  
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**  
+- 📫 How to reach me: **gauravkkr345@gmail.com**  
 
 ---
 
 ### 🛠 Tech Stack
-- 💻 **Languages**: Python, JavaScript, C++  
-- 🚀 **Frameworks**: TensorFlow, React, Node.js  
-- 🛠 **Tools**: Git, Docker, VS Code, Linux  
-- 📊 **Databases**: MySQL, MongoDB  
+- 💻 **Languages**: Python, JavaScript, C++ , Java, php  
+- 🛠 **Tools**: Git, VS Code, Linux  
+- 📊 **Databases**: MySQL 
 
 ---
 
@@ -34,9 +33,9 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://dev.to/your-profile"><img src="https://img.shields.io/badge/DEV.to-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://linkedin.com/in/gaurav-kumar-b5a9882aa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/Gauravkuma2249"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://dev.to/white_hypo13"><img src="https://img.shields.io/badge/DEV.to-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
 ---
