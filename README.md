@@ -61,7 +61,7 @@
 
 ## ✅ Cyber Snake Contributions 🐍🔥
 <p align="center">
-  <img src="https://github.com/AlphaGaurav13/AlphaGaurav13/blob/main/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
 </p>
 
 
