@@ -40,10 +40,14 @@
 
 ---
 
-## 🎖️ GitHub Trophies  
+## 🎖️ Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlphaGaurav13&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%92%BB-blue" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-%F0%9F%A4%96-orange" />
+  <img src="https://img.shields.io/badge/GitHub%20Power%20User-%E2%9C%94%EF%B8%8F-green" />
+  <img src="https://img.shields.io/badge/AI%20Storytelling%20Creator-%F0%9F%93%96-purple" />
 </p>
+
 
 ---
 
