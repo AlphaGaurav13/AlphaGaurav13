@@ -59,13 +59,15 @@
 ---
 
 ## 🌍 3D GitHub Contributions  
+## ✅ Cyber Snake Contributions 🐍🔥
 <p align="center">
-  <img src="https://github.com/AlphaGaurav13/AlphaGaurav13/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/AlphaGaurav13/AlphaGaurav13/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
-## 🤖 AI-Generated Quote  
+## Quote Of The Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
