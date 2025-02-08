@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaurav
+Hi 👋,I'm Gaurav 
 
 - 📫 How to reach me ... gauravkkr345@gmail.com 
 
