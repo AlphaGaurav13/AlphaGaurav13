@@ -64,7 +64,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.svg" />
 </p>
 
-
 ---
 
 ## Quote Of The Day
