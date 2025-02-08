@@ -1,41 +1,80 @@
-## 🔥 Live GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaGaurav13&show_icons=true&theme=tokyonight" /> 
+<h1 align="center">Hi there, I'm Gaurav 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Enthusiast;Open+Source+Contributor;Passionate+about+Storytelling+AI" />
 </p>
 
-## 🚀 Tech Stack
-<p align="center"> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,js,git,github,linux,tensorflow,pytorch,vscode" /></a> 
+---
+
+## 🚀 About Me  
+- 🔭 I’m currently working on **[NationalExamsAiAnalyzer](https://github.com/AlphaGaurav13/NationalExamsAiAnalyzer.git)**  
+- 🌱 I’m learning **Machine Learning & NLP**  
+- 👯 I’m looking to collaborate on **AI-based storytelling projects**  
+- 💬 Ask me about **Git, Python, and Open Source**  
+- 📫 How to reach me: **gauravkkr345@gmail.com**  
+
+---
+
+## 🛠️ Skills & Technologies  
+
+### ⚡ **Programming Languages**
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
+  </a>
 </p>
 
-## 🌆 GitHub Skyline (Upload Your Own)
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/AlphaGaurav13/AlphaGaurav13/main/skyline.gif" width="100%" />
+### 📂 **Version Control & Tools**
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" />
+  </a>
 </p>
 
-## 🕶️ Spotify Music (Personal API Required)
-<p align="center"> 
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default" width="400"> 
+### ⚡ **Frameworks & Libraries**
+<p align="center">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" />
+  </a>
 </p>
 
-## 🐍 Contribution Snake Animation
-<p align="center"> 
-  <img src="https://github.com/AlphaGaurav13/AlphaGaurav13/blob/output/github-contribution-grid-snake.svg" />
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaGaurav13&show_icons=true&theme=radical" />
 </p>
 
-## 🤯 AI-Powered Quote Generator
-<p align="center"> 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaGaurav13&theme=radical" />
 </p>
 
-## 🔥 Visitor Tracker
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AlphaGaurav13&label=Visitors&color=brightgreen&style=for-the-badge" /> 
-</p>
+---
 
-## 🚀 Want to Connect?
-<p align="center"> 
-  <a href="mailto:gauravkkr345@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a> 
+## 🎯 Connect With Me  
+<p align="center">
+  <a href="mailto:gauravkkr345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
