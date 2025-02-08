@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=40" />
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100%" />
 </p>
 
 ---
@@ -40,14 +40,10 @@
 
 ---
 
-## 🎖️ Achievements  
+## 🎖️ GitHub Achievements  
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%92%BB-blue" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-%F0%9F%A4%96-orange" />
-  <img src="https://img.shields.io/badge/GitHub%20Power%20User-%E2%9C%94%EF%B8%8F-green" />
-  <img src="https://img.shields.io/badge/AI%20Storytelling%20Creator-%F0%9F%93%96-purple" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlphaGaurav13&theme=radical&margin-w=15&margin-h=15" />
 </p>
-
 
 ---
 
@@ -62,20 +58,27 @@
 
 ---
 
-## 🤖 Daily New Quote  
+## 🏆 Fun Stats & Metrics  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaGaurav13&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/AlphaGaurav13?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKolkata" />
 </p>
 
 ---
 
-## 🎯 Connect With Me  
+## 🐍 Glowing Contribution Snake  
 <p align="center">
-  <a href="mailto:gauravkkr345@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AlphaGaurav13/AlphaGaurav13/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+## 🎧 Spotify Now Playing  
+> **(If you use Spotify, this will show what you're listening to in real-time!)**  
+```md
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlphaGaurav13&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://novatorem-AlphaGaurav13.vercel.app/api/spotify" width="400" />
 </p>
