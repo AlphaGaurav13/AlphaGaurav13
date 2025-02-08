@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi there, I'm Gaurav 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Enthusiast;Open+Source+Contributor;Building+Storytelling+AI" />
@@ -62,18 +62,7 @@
 
 ---
 
-## 🎖️ Achievements  
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%F0%9F%92%BB-blue" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-%F0%9F%A4%96-orange" />
-  <img src="https://img.shields.io/badge/GitHub%20Power%20User-%E2%9C%94%EF%B8%8F-green" />
-  <img src="https://img.shields.io/badge/AI%20Storytelling%20Creator-%F0%9F%93%96-purple" />
-</p>
-
-
----
-
-## 🤖 AI-Generated Quote  
+## 🤖 Daily New Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
