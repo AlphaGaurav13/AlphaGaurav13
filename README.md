@@ -1,13 +1,14 @@
-<h1 align="center">Hi there, I'm Gaurav 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Enthusiast;Open+Source+Contributor;Building+Storytelling+AI" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=40" />
 </p>
 
 ---
 
+<h1 align="center">Hi there, I'm Gaurav 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=40" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Enthusiast;Open+Source+Contributor;Building+Storytelling+AI" />
 </p>
 
 ---
